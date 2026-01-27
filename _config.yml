@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Houston, Tx"
   employer         : "University of Houston"
-  uri              : # URL
+  uri              : "https://www.uh.edu/nsm/computer-science/" # URL
   email            : # email 
 
   # Academic websites
