@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* A.S. in Computer Science, Lone Star College, May 2024
+* B.S. in Computer Science, University of Houston, Expected Graduation 2027
 
-Work experience
+Related Coursework
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Algorithms and Data Structures
+* Introduction to Automata and Computability
+* Computer Organization and Architecture
+* Operating Systems
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Billingual: English & Spanish
+* Proficient in C++
+* Experience with:
+  * C
+  * Python
+  * ARM
+  * JSON
+  * HTML
+  * GitHub
+    
+Work experience
+======
+* Ongoing: Independent Refurbished Tools Salesperson
+  * Research appropriate sales price for items in current market based on item popularity, scarcity, and condition
+  * Negotiate item price with customers and appropriately address customer concerns
+ 
+* Ongoing: Overnight Drugstore Stocker
+  H-E-B
+  * Assist team members in meeting tight deadlines by collaborating on a plan of action that most effieciently distributes workload and prioritizes tasks of high importance
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* June 2020 - July 2024: Sales Associate
+  J&A Builder Supply
+  * Matched customers with the right products based on their project needs using comprehensive merchandice knowledge
+  * Maintained relationships with vendors and customers to negotiate pricing and drive sales
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022 - 2023: Volunteer for Innovation Sparks at Comicpalooza
+  * Helped present creative stem-oriented arts and crafts for young children
+  * Assisted with robotics organization efforts
