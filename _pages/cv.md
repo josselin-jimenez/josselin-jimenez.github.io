@@ -35,16 +35,14 @@ Skills
     
 Work experience
 ======
-* Ongoing: Independent Refurbished Tools Salesperson
+* Ongoing: Refurbished Tools Salesperson | Independent
   * Research appropriate sales price for items in current market based on item popularity, scarcity, and condition
   * Negotiate item price with customers and appropriately address customer concerns
  
-* Ongoing: Overnight Drugstore Stocker
-  H-E-B
+* Ongoing: Overnight Drugstore Stocker | H-E-B
   * Assist team members in meeting tight deadlines by collaborating on a plan of action that most effieciently distributes workload and prioritizes tasks of high importance
 
-* June 2020 - July 2024: Sales Associate
-  J&A Builder Supply
+* June 2020 - July 2024: Sales Associate | J&A Builder Supply
   * Matched customers with the right products based on their project needs using comprehensive merchandice knowledge
   * Maintained relationships with vendors and customers to negotiate pricing and drive sales
   
