@@ -26,7 +26,7 @@ author:
   avatar           : "pic1.jpg"
   name             : "Josselin Jimenez"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Houston, Tx"
   employer         : "University of Houston"
   uri              : "https://www.uh.edu/nsm/computer-science/" # URL
