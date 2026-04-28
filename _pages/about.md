@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a href="files/Resume.pdf">View Resume as PDF</a>
-
 Education
 ======
 * A.S. in Computer Science, Lone Star College, May 2024
